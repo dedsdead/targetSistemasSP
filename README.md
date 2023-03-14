@@ -4,7 +4,7 @@
 https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf8140482dbf/Fibonacci.java
 
 ## questão 3) 
-https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf8140482dbf/FaturamentoMensal.java
+https://github.com/dedsdead/targetSistemasSP/blob/008cbffbca444a758e62d53ba8b40f38831b82c4/faturamentomensal/src/main/java/targetsistemas/sp/FaturamentoMensal.java
 
 ## questão 4) 
 https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf8140482dbf/Percentual.java
