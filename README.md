@@ -10,4 +10,4 @@ https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf
 https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf8140482dbf/Percentual.java
 
 ## questão 5)
- https://github.com/dedsdead/targetSistemasSP/blob/c1c99ca24c627c7b175b2bd3871faf8140482dbf/InvertePalavra.java
+ https://github.com/dedsdead/targetSistemasSP/blob/1c8e8d4b86cdd27c4d83c57b68cb6336933d156d/InvertePalavra.java
